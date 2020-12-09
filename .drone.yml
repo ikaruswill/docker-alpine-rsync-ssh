@@ -43,7 +43,7 @@ node_selector:
 
 trigger:
   ref:
-  - refs/heads/master
+  - refs/heads/main
   - refs/tags/*
 
 ---
@@ -84,7 +84,7 @@ node_selector:
 
 trigger:
   ref:
-  - refs/heads/master
+  - refs/heads/main
   - refs/tags/*
 
 ---
@@ -125,7 +125,7 @@ node_selector:
 
 trigger:
   ref:
-  - refs/heads/master
+  - refs/heads/main
   - refs/tags/*
 
 ---
@@ -162,7 +162,7 @@ node_selector:
 
 trigger:
   ref:
-  - refs/heads/master
+  - refs/heads/main
   - refs/tags/*
 
 depends_on:
